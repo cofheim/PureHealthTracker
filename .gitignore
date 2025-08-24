@@ -10,6 +10,11 @@ __pycache__/
 *.pyo
 *.pyd
 
+# Migrations
+migrations/versions/
+migrations/env.py
+alembic.ini
+
 # IDE-specific files
 .idea/
 .vscode/
